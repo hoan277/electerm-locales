@@ -1,5 +1,5 @@
 /**
- * language: english
+ * language: vietnamese
  */
 const lang = {
   // app desc
